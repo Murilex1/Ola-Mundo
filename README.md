@@ -3,7 +3,7 @@
 
 Feito com Github Desktop com auxílio de Gustavo Guanabara. Extremamente didático e de boa compreensão.
 
-Grade de estudo para 2022:
+Grade de estudo para 2022
 
 Lógica de programação
 Pensamento Computacional
