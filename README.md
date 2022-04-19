@@ -5,11 +5,11 @@ Feito com Github Desktop com auxílio de Gustavo Guanabara. Extremamente didáti
 
 Grade de estudo para 2022:
 
-Lógica de programação;
-Pensamento Computacional;
-Git e Github;
-.NET 6;
-C#;
-MySQL;
+Lógica de programação
+Pensamento Computacional
+Git e Github
+.NET 6
+C#
+MySQL
 
 Ínicio de curso  Engenharia da computação  Univesp  2022
